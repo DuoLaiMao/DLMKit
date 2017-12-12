@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DLMKit_Example' do
+  pod 'DLMKit', :path => '../'
+
+  target 'DLMKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
