@@ -1,0 +1,6 @@
+framework module Pods_DLMKit_Example {
+  umbrella header "Pods-DLMKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

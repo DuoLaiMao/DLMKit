@@ -1,0 +1,6 @@
+framework module DLMKit {
+  umbrella header "DLMKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
