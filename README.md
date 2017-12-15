@@ -22,7 +22,7 @@ pod 'DLMKit'
 
 ## Author
 
-yangjian, yangjian@baijiahulian.com
+yangjian, 130yangjian@163.com
 
 ## License
 
